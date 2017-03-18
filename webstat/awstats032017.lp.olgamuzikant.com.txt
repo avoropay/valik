@@ -1,0 +1,343 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201703 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.lp.olgamuzikant.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1999                
+POS_TIME 2683                
+POS_VISITOR 5997                
+POS_DAY 6219                
+POS_DOMAIN 3256                
+POS_LOGIN 3489                
+POS_ROBOT 3644                
+POS_WORMS 3776                
+POS_EMAILSENDER 3907                
+POS_EMAILRECEIVER 4050                
+POS_SESSION 6358                
+POS_SIDER 6542                
+POS_FILETYPES 4185                
+POS_DOWNLOADS 4426                
+POS_OS 4474                
+POS_BROWSER 4544                
+POS_SCREENSIZE 4629                
+POS_UNKNOWNREFERER 4703                
+POS_UNKNOWNREFERERBROWSER 4834                
+POS_ORIGIN 4960                
+POS_SEREFERRALS 5097                
+POS_PAGEREFS 5241                
+POS_SEARCHWORDS 5389                
+POS_KEYWORDS 5541                
+POS_MISC 2346                
+POS_ERRORS 5600                
+POS_CLUSTER 3345                
+POS_SIDER_404 5688                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170304160754 356 113469 15601801431250
+FirstTime 20170301181647
+LastTime 20170304160748
+LastUpdate 20170305052205 356 0 356 0 0
+TotalVisits 10                  
+TotalUnique 3                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 3                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 17 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 2 23 3402228 0 0 0
+8 2 4 6261 0 0 0
+9 0 0 0 0 0 0
+10 112 522 10898243 16 30 52576
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 20 166 410060 2 2 934
+14 64 178 832161 7 7 2941
+15 0 0 0 0 0 0
+16 1 3 7649 0 0 0
+17 0 0 0 0 0 0
+18 138 873 12569108 18 19 11371
+19 128 1580 76822557 24 25 15569
+20 0 0 0 0 0 0
+21 3 26 3517159 0 1 3262
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 470 3375 108465426
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 1341 5932848 0 0
+png 495 2401232 0 0
+woff 41 2177760 0 0
+php 8 10814 0 0
+html 58 337632 0 0
+js 870 8667541 0 0
+jpg 183 87327888 0 0
+Unknown 363 1543872 0 0
+gif 16 65839 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 3
+Unknown 15
+linux 2448
+win7 912
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 2
+chrome56.0.2924.87 3360
+Unknown 15
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Drupal_(_http://drupal.org/) 20170304135912
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Drupal_(_http://drupal.org/) 20170304135912
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 35 35
+From1 0 0
+From2 0 0
+From3 0 0
+From4 435 3340
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+302 67 29431
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 3
+188.163.96.212 261 2448 89389860 20170301192535
+188.163.96.14 194 912 19070151 20170304160748 20170304160748 /
+91.234.35.30 15 15 5415 20170304135912
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 3
+20170301 269 2479 92908824 3
+20170302 116 549 14306732 4
+20170304 85 347 1249870 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+1h+ 2
+2mn-5mn 2
+0s-30s 2
+15mn-30mn 2
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 97
+/ 58 337632 2 1
+/sites/all/themes/portfolio_zymphonies_theme/fonts/fontawesome-webfont.woff 41 2177760 0 3
+/node 32 132628 0 0
+/admin/appearance/settings/portfolio_zymphonies_theme 28 145258 0 0
+/batch 22 20472 0 0
+/admin/appearance 16 75407 0 0
+/user 15 52060 5 1
+/media/browser 15 96256 0 0
+/wysiwyg_theme/portfolio_zymphonies_theme 14 5054 3 3
+/admin/structure 13 37113 0 0
+/admin/config 5 22027 0 0
+/node/5/edit 9 76918 0 0
+/admin/appearance/update 2 6776 0 0
+/admin/structure/types/manage/about-me/display/teaser 2 8915 0 0
+/admin/config/regional/language 3 13715 0 0
+/admin/help 1 4676 0 0
+/admin/structure/types/manage/foto/fields 2 11220 0 0
+/file/ajax/field_image/und/form-0vtbYvZmN30whU4dG_ni2iC3ss4q4YgsRs1ai_QSC_0 1 2821 0 0
+/node/9/delete 1 2950 0 0
+/file/ajax/upload/form-DWD85Mdd3gsBVfPPUWHIWwHR2AmEA_PINaQAJtY2QSI 1 1683 0 0
+/admin/structure/views/view/awards/preview/page/ajax 4 6922 0 0
+/admin/structure/types/manage/my-works/display/teaser 1 4390 0 0
+/admin/structure/types/add 2 12169 0 0
+/admin/structure/types/manage/about-me/fields 2 11179 0 0
+/admin/appearance/settings 7 34459 0 0
+/node/1 1 4578 0 0
+/admin/people 2 10996 0 0
+/admin/modules/update 1 4209 0 0
+/admin/content/file 1 4774 0 0
+/about-me-list 1 3304 0 0
+/admin/structure/views/view/awards/preview/block/ajax 7 15753 0 0
+/user/23/edit 2 21968 0 0
+/file/ajax/field_image/und/0/form-lLRPiDgbC4lNP0m1uKGsCbH_nTztJSH2_3qye8_FXbk 1 1807 0 0
+/comment/reply/3 1 7083 0 0
+/admin/structure/file-types 1 3038 0 0
+/node/10/delete 1 3020 0 0
+/admin/config/regional/language/update 2 10973 0 0
+/admin/structure/types/manage/foto/display/teaser 2 8960 0 0
+/wysiwyg_theme/seven 1 361 0 0
+/admin/modules 6 69407 0 0
+/admin/people/create 2 7996 0 0
+/node/add/about-me 1 6415 0 0
+/admin/structure/types/manage/foto/display 2 9978 0 0
+/admin/modules/install 2 4309 0 0
+/admin/structure/types/manage/about-me/display 3 14804 0 0
+/node/add/foto 2 14258 0 1
+/admin/config/user-interface/shortcut/shortcut-set-1 1 4709 0 0
+/user/23 3 13746 0 0
+/admin/structure/types/manage/foto/fields/field_image/edit 1 5848 0 0
+/admin/update/ready 1 4036 0 0
+/node/7/delete 1 2949 0 0
+/admin/structure/views/ajax/add-item/about_me_list/block/header 2 6705 0 0
+/user/1 1 4096 0 0
+/admin/config/regional/translate/update 2 9319 0 0
+/admin/dashboard 2 9135 0 0
+/file/ajax/field_image/und/0/form-nWxUYKVnjjf14wXZYzZFsuess0-02NhVD-wdD4CQu1s 1 1799 0 0
+/admin/structure/views/ajax/config-item/awards/page/filter/type 3 7993 0 0
+/admin/structure/views/view/awards/edit/block 4 30073 0 0
+/node/8/delete 1 2950 0 0
+/file/ajax/upload/form-oFeJV-YMh0XkxCxVOEOgIuuKO7d1r1-Cret8iJZ1XF8 1 1836 0 0
+/admin/structure/views 2 10721 0 0
+/node/11/edit 3 24301 0 0
+/system/ajax 1 2411 0 0
+/update.php 2 4235 0 0
+/admin/structure/views/ajax/display/awards/block/title 4 10831 0 0
+/galleries 2 8095 0 0
+/admin/config/regional/translate 1 4163 0 0
+/node/add 4 11150 0 0
+/node/3 1 7094 0 0
+/admin/structure/block/manage/views/awards-block/configure 1 5760 0 0
+/overlay-ajax/page_top 2 3876 0 0
+/node/10 3 10001 0 0
+/admin/structure/views/ajax/display/awards/block/style_plugin 2 6467 0 0
+/admin/structure/types/manage/foto 1 6170 0 0
+/node/1/edit 2 7010 0 0
+/node/3/edit 2 17817 0 0
+/admin/structure/types 7 20773 0 0
+/admin/structure/views/ajax/display/awards/block/row_options 2 7060 0 0
+/media/ajax/field_image/und/form-IH8-4tKyFbK8Crl5QJdmq9vlkT8g2PJtk21KLg_cnEk 1 2268 0 0
+/admin/config/user-interface/shortcut/shortcut-set-1/edit 1 3516 0 0
+/admin/structure/menu/parents 3 1470 0 0
+/authorize.php 6 6579 0 0
+/node/9 1 2851 0 0
+/node/4/edit 4 36899 0 0
+/node/4 3 12616 0 0
+/file/ajax/field_image/und/form-PkCNig3srsbjnCywXCl5vDJ06T7A2kMpBnHx0ZZzyig 1 2597 0 0
+/user/23/shortcuts 1 3504 0 0
+/node/11 11 36372 0 0
+/admin/structure/views/ajax/add-item/awards/block/header 2 6753 0 0
+/admin/content 12 52523 0 0
+/admin/structure/views/view/about_me_list/preview/block/ajax 1 3216 0 0
+/admin/structure/block 2 12226 0 0
+/admin/structure/views/view/awards/edit 3 20392 0 0
+/admin/structure/views/view/about_me_list/edit/block 1 8186 0 0
+/node/5 9 39395 0 0
+/admin/config/regional/language/add 1 7234 0 0
+/admin/structure/types/manage/my-works/display 2 9901 0 0
+END_SIDER

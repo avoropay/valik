@@ -1,0 +1,27 @@
+name = valik
+base theme = portfolio_zymphonies_theme
+description = valik
+core = 7.x
+
+stylesheets[all][] = css/style_valik.css
+
+scripts[] = js/custom_valik.js
+
+regions[user_menu]  	= User menu
+regions[aboutme]       	= About me
+regions[myworks]     	= My works
+regions[keyskills]      = Key skills
+regions[education]      = Education
+regions[awards]       	= Awards
+regions[resume]         = Resume
+regions[contact]       	= contact
+regions[sidebar_first]  = First Sidebar
+regions[sidebar_second] = Second Sidebar
+regions[content]        = Content
+
+; Information added by Drupal.org packaging script on 2015-04-21
+version = "7.x-1.0"
+core = "7.x"
+project = "valik"
+datestamp = "9429640284"
+

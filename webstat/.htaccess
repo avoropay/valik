@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/lp.olgamuzikant.com/webstat"
+AuthUserFile /var/www/olgakratt/data/etc/66193693.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

@@ -1,0 +1,43 @@
+header.siteheader{
+  background: #2DD6B5;
+  text-align: center;
+  padding: 5px 0;
+  font-size: 26px;
+  webkit-box-shadow: 0px 6px 0px #E4E4E4;
+  moz-box-shadow: 0px 6px 0px #E4E4E4;
+  box-shadow: 0px 6px 0px #E4E4E4;
+}
+
+.view-about-me-list table {
+  background: none;
+  border: none;
+  margin-bottom: 0;
+}
+
+.view-about-me-list td {
+  background: none;
+  border: none;
+}
+
+.view-about-me-list article {
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+.view-my-works-list table {
+  background: none;
+  border: none;
+  margin-bottom: 0;
+}
+
+.view-my-works-list td {
+  background: none;
+  border: none;
+}
+
+.view-my-works-list article {
+  background: none;
+  border: none;
+  box-shadow: none;
+}
