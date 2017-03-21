@@ -170,7 +170,6 @@ function file_build_content($file, $view_mode = 'full', $langcode = NULL) {
   // 'prepare_view' step. An internal flag prevents the operation from running
   // twice.
   // Allow modules to change the view mode.
-
   $view_mode = key(entity_view_mode_prepare('file', array($file->fid => $file), $view_mode, $langcode));
   field_attach_prepare_view('file', array($file->fid => $file), $view_mode, $langcode);
   entity_prepare_view('file', array($file->fid => $file), $langcode);
